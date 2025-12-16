@@ -1,4 +1,3 @@
-
 [submodule "libs/micro_qp"]
 	path = libs/micro_qp
 	url = git@github.com:Vincentive1232/micro_qp.git
