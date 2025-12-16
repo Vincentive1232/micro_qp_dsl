@@ -1,0 +1,10 @@
+[package]
+name = "micro_qp_dsl"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+micro_qp = { path = "../micro_qp", default-features = false }
+
+[features]
+default = []
